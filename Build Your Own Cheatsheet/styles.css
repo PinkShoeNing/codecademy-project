@@ -1,0 +1,29 @@
+h1 {
+  background-color: #DBE9EE;
+  box-sizing: border-box;
+  padding: 40px;
+  text-align: center;
+  width: 100%;
+}
+
+h2 {
+  background-color: #6495ED;
+  text-align: center;
+  padding: 20px;
+}
+
+td {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 15px;
+}
+
+th {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 20px;
+}
+
+table {
+    align-self: center;
+}
